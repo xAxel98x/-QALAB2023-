@@ -39,6 +39,7 @@ public class Main {
         auto1.avanzar(); auto1.avanzar();
         auto1.avanzar();
         auto1.avanzar();
+        editado por Axel Castro
         //auto1.frenarHastaDetener();
 */
 
